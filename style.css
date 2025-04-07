@@ -9,7 +9,7 @@ body {
     align-items: center; 
     flex-direction: column;
     height: 100vh;
-    background-image: url('bg.avif');
+    background-image: blue;
     background-size:cover;
     background-position: center;
     text-align: center;
